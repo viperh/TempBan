@@ -1,0 +1,4 @@
+plugins\tempbannew\commands\unban.class
+plugins\tempbannew\commands\tempban.class
+plugins\tempbannew\TempBanNew.class
+plugins\tempbannew\PlayerJoinEventListener.class

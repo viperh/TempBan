@@ -1,0 +1,12 @@
+name: TempBanNew
+version: '${project.version}'
+main: plugins.tempbannew.TempBanNew
+api-version: '1.19'
+commands:
+  tempban:
+    description: ban player
+
+  reloadconfig:
+    description: reloads config
+  unban:
+    description: unbans player
